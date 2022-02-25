@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"upgradeGLASSForYesplan28" : "JohanBrichau 02/14/2022 22:16" },
+	"instance" : {
+		"filetreeRepositoryDescription" : "JohanBrichau 02/25/2022 01:17",
+		"glass1RepositoryDescription" : "JohanBrichau 02/25/2022 00:08",
+		"greaseRepositoryDescription" : "JohanBrichau 02/25/2022 00:07",
+		"loadAndLockBaselineOfFiletree" : "JohanBrichau 02/25/2022 01:17",
+		"lockMetacello" : "JohanBrichau 02/25/2022 00:39",
+		"metacelloRepositoryDescription" : "JohanBrichau 02/25/2022 00:08",
+		"upgradeMetacello" : "JohanBrichau 02/25/2022 00:36" } }

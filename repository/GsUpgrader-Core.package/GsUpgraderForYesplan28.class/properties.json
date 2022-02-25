@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "GsUpgrader",
 	"category" : "GsUpgrader-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "GsUpgraderForYesplan28",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "GsUpgrader",
+	"type" : "normal" }
