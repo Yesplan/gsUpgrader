@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'GsUpgrader-Core'!
+self packageOrganizer ensurePackage: #'GsUpgrader-Core' withTags: #()!
