@@ -1,8 +1,8 @@
-as yet unclassified
-upgradeGLASSForYesplan28
+convenience
+upgradeGLASSForYesplan
   | gemstoneVersion gsUpgraderCacheDirPath |
   gsUpgraderCacheDirPath := '/home/yesplan/localrepositories/gsUpgrader'.
-  gemstoneVersion := '3.4.5'.
+  gemstoneVersion := System stoneVersionAt: 'gsVersion'.
   (self _cacheSentinelExists: gsUpgraderCacheDirPath forVersion: gemstoneVersion)
     ifTrue: [ 
       self

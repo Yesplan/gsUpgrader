@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "GsUpgraderForYesplan",
+	"super" : "GsUpgrader",
 	"category" : "GsUpgrader-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "GsUpgraderForOrderflow",
+	"name" : "GsUpgraderForYesplan",
 	"type" : "normal"
 }

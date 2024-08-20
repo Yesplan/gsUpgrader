@@ -1,15 +1,14 @@
 {
-	"category" : "GsUpgrader-Core",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GsUpgrader-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"gsUpgraderCacheDirPath",
-		"repositoryOverride" ],
+		"repositoryOverride"
+	],
 	"name" : "GsUpgrader",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}
